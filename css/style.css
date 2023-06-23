@@ -1,0 +1,12 @@
+body {
+  padding-bottom: 5000px;
+}
+
+.cards-wappers{
+  column-gap: 15px;
+}
+
+.logo-img{
+  border-radius: 5px;
+  margin-top: -8px;
+}
